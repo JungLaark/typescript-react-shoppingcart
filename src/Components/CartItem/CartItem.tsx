@@ -1,7 +1,7 @@
 import Button from '@material-ui/core/Button';
 import { isMetaProperty } from 'typescript';
 //Types
-import { CartItemType } from '../Model/CartItemType';
+import { CartItemType } from '../../Model/CartItemType';
 //styles
 import { Wrapper } from './CartItem.styles';
 
